@@ -46,6 +46,20 @@ Backend developer enfocado en **Node.js** y el ecosistema JavaScript. Desarrollo
 
 ---
 
+
+---
+
+## 📌 Proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/LeandroCaballaro/TrackMenu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroCaballaro&repo=TrackMenu&theme=tokyonight&hide_border=true" alt="TrackMenu" />
+  </a>
+  <a href="https://github.com/LeandroCaballaro/proyecto7mo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroCaballaro&repo=proyecto7mo&theme=tokyonight&hide_border=true" alt="proyecto7mo" />
+  </a>
+</p>
+
 ## 📊 Estadísticas
 
 <p align="center">
